@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity projects\\My project (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|F:\\Unity projects\\My project (1)\\assets\\scripts\\buildmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|f:\\unity projects\\my project (1)\\assets\\scripts\\elementinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\elementinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|F:\\Unity projects\\My project (1)\\assets\\scripts\\ibuildplacementrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ibuildplacementrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|F:\\Unity projects\\My project (1)\\assets\\scripts\\elementdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\elementdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|F:\\Unity projects\\My project (1)\\assets\\scripts\\basicplacementrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\basicplacementrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|F:\\Unity projects\\My project (1)\\assets\\scripts\\ghostpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ghostpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|F:\\Unity projects\\My project (1)\\assets\\scripts\\stabilitysolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stabilitysolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|F:\\Unity projects\\My project (1)\\assets\\scripts\\gridsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|F:\\Unity projects\\My project (1)\\assets\\scripts\\cameraorbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameraorbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|F:\\Unity projects\\My project (1)\\assets\\scripts\\saveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GhostPreview.cs",
+              "DocumentMoniker": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\GhostPreview.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GhostPreview.cs",
+              "ToolTip": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\GhostPreview.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GhostPreview.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAjwA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:56:00.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StabilitySolver.cs",
+              "DocumentMoniker": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\StabilitySolver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StabilitySolver.cs",
+              "ToolTip": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\StabilitySolver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StabilitySolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:55:10.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaveLoadService.cs",
+              "DocumentMoniker": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\SaveLoadService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoadService.cs",
+              "ToolTip": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\SaveLoadService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveLoadService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:38:42.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CameraOrbit.cs",
+              "DocumentMoniker": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\CameraOrbit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraOrbit.cs",
+              "ToolTip": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\CameraOrbit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraOrbit.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwC8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:38:17.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasicPlacementRule.cs",
+              "DocumentMoniker": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\BasicPlacementRule.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BasicPlacementRule.cs",
+              "ToolTip": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\BasicPlacementRule.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BasicPlacementRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:34:14.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuildManager.cs",
+              "DocumentMoniker": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\BuildManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildManager.cs",
+              "ToolTip": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\BuildManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuildManager.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAwwHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:29:55.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBuildPlacementRule.cs",
+              "DocumentMoniker": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\IBuildPlacementRule.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IBuildPlacementRule.cs",
+              "ToolTip": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\IBuildPlacementRule.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IBuildPlacementRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:29:18.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElementInstance.cs",
+              "DocumentMoniker": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\ElementInstance.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ElementInstance.cs",
+              "ToolTip": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\ElementInstance.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ElementInstance.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA1wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:28:15.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GridSystem.cs",
+              "DocumentMoniker": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\GridSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridSystem.cs",
+              "ToolTip": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\GridSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridSystem.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:27:32.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ElementDefinition.cs",
+              "DocumentMoniker": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\ElementDefinition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ElementDefinition.cs",
+              "ToolTip": "F:\\Unity projects\\My project (1)\\Assets\\Scripts\\ElementDefinition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ElementDefinition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:25:49.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
